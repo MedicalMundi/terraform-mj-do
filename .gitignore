@@ -1,3 +1,7 @@
+/.idea
+/.vscode
+/var
+
 # Local .terraform directories
 **/.terraform/*
 
